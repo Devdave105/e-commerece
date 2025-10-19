@@ -129,7 +129,7 @@
     align-items: center;
     justify-content: center;
     height: 90vh;
-    background: url(/images/bbb1.jpg) center/cover no-repeat;
+    background: url(images/bbb1.jpg) center/cover no-repeat;
     background-blend-mode: multiply;
     color: rgb(126, 115, 115);
     text-align: center;
@@ -549,7 +549,7 @@
 .testimonials {
   position: relative;
   padding: 80px 50px;
-  background: url(/images/bbbb3.jpg) center/cover no-repeat;
+  background: url(images/bbbb3.jpg) center/cover no-repeat;
   color: white;
   text-align: center;
   overflow: hidden;
